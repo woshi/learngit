@@ -1,4 +1,4 @@
-package com.cn.ziqidev;
+package com.cn.ziqidev.sort;
 
 import java.util.Arrays;
 
